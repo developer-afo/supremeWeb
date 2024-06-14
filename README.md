@@ -17,7 +17,7 @@ This Laravel application allows users to have multiple wallets. Each wallet type
 First, clone the repository to your local machine:
 
 ```sh
-git clone https://github.com/your-username/laravel-wallet-app.git
+git clone https://github.com/developer-afo/supremeWeb.git
 cd laravel-wallet-app
 ```
 
