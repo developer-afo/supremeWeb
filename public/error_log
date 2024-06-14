@@ -1,0 +1,3 @@
+[20-May-2024 00:14:19 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/intepkvx/fortran.intelliccloud.site/routes/api.php on line 4
+[20-May-2024 00:18:42 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\PropertyController::store() in /home/intepkvx/fortran.intelliccloud.site/app/Http/Controllers/PropertyController.php on line 40
+[20-May-2024 00:30:23 UTC] PHP Fatal error:  Cannot use Illuminate\Support\Facades\Auth as Auth because the name is already in use in /home/intepkvx/fortran.intelliccloud.site/app/Http/Controllers/UserController.php on line 13
